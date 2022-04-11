@@ -13,6 +13,8 @@
 * Modified 06-Mar-2021 Chuck Pateros, USD
 * Randomizes the threads
 * Waits using spin counters
+*
+* Modified 11-Apr-2022 Team G, USD
 ******************************************************************************/
 #include <omp.h>
 #include <stdio.h>
