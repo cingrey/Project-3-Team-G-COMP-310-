@@ -1,4 +1,4 @@
-# Project-3-Team-G-COMP-310-
+# Project-3-Team-G-COMP-310
 
 omp_hello_spin1.c version uses the my_wait_count variable
 
